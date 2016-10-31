@@ -1,2 +1,12 @@
-# nmdad1.local
-Data-driven Progressive Responsive Web Application
+# Data-driven Progressive Responsive Web Application
+
+* Adriaan Glibert
+* New Media Design & Development I
+* Academiejaar: 2016-2017
+* Opleiding: Bachelor in de grafische en digitale media
+* Afstudeerrichting: Multimediaproductie
+* Keuzeoptie: ProDev
+* Opleidingsinstelling: Arteveldehogeschool
+
+
+
